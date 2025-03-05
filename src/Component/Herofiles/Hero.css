@@ -1,0 +1,40 @@
+.image-text-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+  }
+  
+  .extreme-left-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .text-container {
+    padding-right: 1rem; /* Moves text closer to the right edge */
+  }
+  
+  .heading {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .description {
+    font-size: 1.5rem;
+    color: white;
+  }
+  
+  /* Responsive Design */
+  
+  h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3rem !important;
+    color: #ec8327;
+  }
+
+  marquee{
+    font-size: 3rem;
+    color: white;
+    padding-bottom: 2rem;
+  }

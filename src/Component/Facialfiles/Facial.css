@@ -1,0 +1,30 @@
+.image-text-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+  }
+  
+  .extreme-right-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    padding-bottom: 2rem;
+  }
+  
+  .text-container {
+    padding-left: 3rem; /* Moves text closer to the right edge */
+  }
+  
+  .heading {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .description {
+    font-size: 1.2rem;
+    color: white;
+  }
+  
+  
+  
